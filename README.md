@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am RoseThorn!
+
+🌱 I’m currently learning ...
+   - How to use Github
+   - Python
+   - Blocks
 <!--
 **RoseThorn78/RoseThorn78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
