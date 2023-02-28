@@ -7,7 +7,7 @@ I am RoseThorn!
    - Python
    - Blocks
    
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoseThorn78&show_icons=true&theme=blueberry)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoseThorn78&show_icons=true&theme=tokyonight)
 
 <!--
 **RoseThorn78/RoseThorn78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
