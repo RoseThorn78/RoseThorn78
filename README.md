@@ -6,8 +6,13 @@ I am RoseThorn!
    - How to use Github
    - Python
    - Blocks
+      ## 😂 Here is a random joke that'll make you laugh!
+   ![Jokes Card](https://readme-jokes.vercel.app/api)
    
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoseThorn78&show_icons=true&theme=blueberry)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoseThorn78&show_icons=true&theme=tokyonight)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoseThorn78&theme=tokyonight)](https://git.io/streak-stats)
+   
+   ![Github Trophy](https://github-profile-trophy.vercel.app/?username=RoseThorn78&theme=tokyonight)
 
 <!--
 **RoseThorn78/RoseThorn78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
