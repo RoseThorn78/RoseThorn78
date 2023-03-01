@@ -9,6 +9,7 @@ I am RoseThorn!
       ## 😂 Here is a random joke that'll make you laugh!
    ![Jokes Card](https://readme-jokes.vercel.app/api)
    
+   
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoseThorn78&show_icons=true&theme=tokyonight) ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseThorn78&layout=compact&theme=tokyonight)
 
    
