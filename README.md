@@ -1,3 +1,5 @@
+<img src="<img src="images (1).jpeg" width="75" height="50" alt="RoseThorn78" />
+
 ### Hi there 👋
 
 I am RoseThorn!
@@ -8,7 +10,8 @@ I am RoseThorn!
    - Blocks
    
       ## 😂 Here is a random joke that'll make you laugh!
-   ![Jokes Card](https://readme-jokes.vercel.app/api)
+   ![Joke
+   s Card](https://readme-jokes.vercel.app/api)
    
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoseThorn78&show_icons=true&theme=tokyonight) ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseThorn78&layout=compact&theme=tokyonight)
 
