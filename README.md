@@ -4,8 +4,8 @@
 
 I am RoseThorn!
 
+
 🌱 I’m currently learning ...
-   - How to use Github
    - Python
    - Blocks
    
