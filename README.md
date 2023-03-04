@@ -1,4 +1,4 @@
-<img src="<img src="images (1).jpeg" width="75" height="50" alt="RoseThorn78" />
+<img src="images (1).jpeg" width="250" height="200" alt="RoseThorn78" />
 
 ### Hi there 👋
 
