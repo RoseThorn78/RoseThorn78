@@ -1,4 +1,4 @@
-<img src="images (1).jpeg" width="300" height="250" alt="RoseThorn78" />  <img src="Screenshot 2023-02-19 16.48.11.png" width="700" height="250" alt="RoseThorn78" />
+<img src="images (1).jpeg" width="300" height="250" alt="RoseThorn78" />  <img src="Screenshot 2023-02-19 16.48.11.png" width="600" height="250" alt="RoseThorn78" />
 
 ### Hi there 👋
 
