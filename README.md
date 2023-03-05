@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+I'm RoseThorn!
 
 🌱 I’m currently learning ...
    - Python
