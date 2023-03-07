@@ -10,7 +10,7 @@ I'm RoseThorn!
    - How GitHub works
 
 🏅 Acheivements: ...
-   - Murray Bridge Robotics Club Vice-Captain (October 2022 - Present)
+   - Current MBHS Robotics Club Vice-Captain (September 2022 - Present)
 
    
       ## 😂 Here is a random joke that'll make you laugh!
