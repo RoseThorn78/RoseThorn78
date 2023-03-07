@@ -8,6 +8,7 @@ I'm RoseThorn!
    - Python
    - Blocks
    - How GitHub works
+   - How to READ MINDS
    
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
