@@ -8,6 +8,10 @@ I'm RoseThorn!
    - Python
    - Blocks
    - How GitHub works
+
+🏅 Acheivements: ...
+   - Murray Bridge Robotics Club Vice-Captain (October 2022 - Present)
+
    
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
