@@ -8,10 +8,6 @@ I'm RoseThorn!
    - Python
    - Blocks
    - How GitHub works
-
-🏅 Acheivements: ...
-   - Current MBHS Robotics Club Vice-Captain (September 2022 - Present)
-
    
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
