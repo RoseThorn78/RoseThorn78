@@ -7,7 +7,6 @@ I'm RoseThorn!
 🌱 I’m currently learning ...
    - Python
    - Blocks
-   - How GitHub works
    
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
