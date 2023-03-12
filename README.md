@@ -10,6 +10,7 @@ I'm RoseThorn!
 🌱 I’m currently learning ...
    - Python
    - Blocks
+
    
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
