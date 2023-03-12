@@ -4,6 +4,9 @@
 
 I'm RoseThorn!
 
+🔭 I’m currently working on ...
+   - 100 days of code Python course on Replit
+
 🌱 I’m currently learning ...
    - Python
    - Blocks
