@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm RoseThorn!
+I'm RoseThorn! :smile:
 
 🔭 I’m currently working on ...
    - 100 days of code Python course on Replit
