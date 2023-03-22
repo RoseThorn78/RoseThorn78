@@ -12,6 +12,8 @@ I'm RoseThorn!
    - Blocks
    - How GitHub works
    - How Replit works
+   - How to fix my messed up code
+   - How to "create a super ai capable of taking over all of humanity".
    
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
