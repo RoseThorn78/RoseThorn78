@@ -13,7 +13,7 @@ I'm RoseThorn!
    - How GitHub works
    - How Replit works
    - How to fix my messed up code
-   - How to "create a super ai capable of taking over all of humanity".
+   - How to "create a super ai capable of enslaving the entire human race within a week".
    
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
