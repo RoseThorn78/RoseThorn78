@@ -6,7 +6,7 @@ I'm RoseThorn! :smile:
 
 🔭 I’m currently working on ...
    - 100 days of code Python course on Replit
-   - Creating a plan to overthrow my classmates, and fellow robotics club members :)
+   - Enslaving the entire human race
 
 🌱 I’m currently learning ...
    - Python
