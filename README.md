@@ -26,7 +26,7 @@ I'm RoseThorn! :smile:
    3. Make the cat adore you so much it cannot live without you.
    4. Tada! You no longer need friends or any human relationships whatsoever, so long as you've got your cat! If you take care of it
       right, it'll be better company than any human. Humans fight, argue and bully each other, whereas your cat will love you
-      for the rest of its life.
+      for the rest of its life. True happiness.
    
    
   
