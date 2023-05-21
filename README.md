@@ -16,6 +16,10 @@ I'm RoseThorn! :smile:
    - How to fix my messed up code
    - How to "create a super ai capable of enslaving the entire human race within a week".
    
+ 💬 Ask me about ...
+    - Any programming/coding related problem......
+    Then scratch your head, say "what on earth was I thinking", and go and ask someone who actually knows what they are doing.
+   
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
    s Card](https://readme-jokes.vercel.app/api)
