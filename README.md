@@ -20,9 +20,16 @@ I'm RoseThorn! :smile:
  
    - Any programming/coding related problem......
     Then scratch your head, say "what on earth was I thinking", and go and ask someone who actually knows what they are doing.
+   - The steps to true happiness:
+   1. Find a cat.
+   2. Feed the cat.
+   3. Make the cat adore you so much it cannot live without you.
+   4. Tada! You no longer need friends or any human relationships whatsoever, so long as you've got your cat! If you take care of it
+      right, it'll be better company than any human. Humans fight, argue and bully each other, whereas your cat will love you
+      for the rest of its life.
    
    
-   
+  
       ## 😂 Here is a random joke that'll make you laugh!
    ![Joke
    s Card](https://readme-jokes.vercel.app/api)
