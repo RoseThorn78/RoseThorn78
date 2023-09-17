@@ -40,6 +40,8 @@ I'm RoseThorn! :smile:
    
    ![Github Trophy](https://github-profile-trophy.vercel.app/?username=RoseThorn78&theme=tokyonight)
 
+
+
 <!--
 **RoseThorn78/RoseThorn78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
